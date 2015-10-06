@@ -1,0 +1,13 @@
+﻿
+¿Cómo es que el ver dos versiones diferentes de un archivo te ayuda a visualizar un error escrito?
+mediante la comparación de lo que posee el archivo.
+
+¿Cómo el tener acceso al historial completo de un archivo te hace más eficiente como programador a largo término?
+Se puede revisar la evolución en el desarrollo de un software, que permita ver etapas indivuales previa a pertenecer a un solo software, que podria ser mas dificil entender
+
+¿Cuáles crees qye sean los pros y los contras de elegir cuando hacer un commit de forma manual (como lo haces con git), contra que los cambios se hagan de forma automática (como google docs lo hace)?
+ventaja radica que es no creas versiones que no tienen mayor relavancia, desventaja que debes de estar conciente de hacer los commit.
+
+De que manera el suo de un sustema de control de versiones puede darte la confianza de hacer cambios en tu proyecto que podrian danar o alterar su funcionamiento.
+
+Ahora que tienes tu entorno de trabajo configurado. Que te gustaria intentar hacer utilizando GIT?

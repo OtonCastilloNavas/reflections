@@ -1,0 +1,6 @@
+﻿Que pasa cuando inicializamos un repositorio? porque es necesario hacerlo?
+Se crean las carpetas necesarias para el repositorio, todo dentro de una carpeta .git
+es necesario para que luego se almacene los metadatos de cada version en los commit
+
+como se diferente el "staging area" de una carpeta de trabajo y de un repositorio? Cual es el valor que esta ofrece?
+
