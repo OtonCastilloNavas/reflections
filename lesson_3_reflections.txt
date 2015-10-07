@@ -1,1 +1,1 @@
-
+por que querrias hace siempre tus pull de forma manual en lugar de que GIT se mantenga actualizado y en coordinacon con tu repositorio remote de forma automatica.
