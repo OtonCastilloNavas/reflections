@@ -4,3 +4,14 @@ es necesario para que luego se almacene los metadatos de cada version en los com
 
 como se diferente el "staging area" de una carpeta de trabajo y de un repositorio? Cual es el valor que esta ofrece?
 
+como puedes usar el "staging area" para asegurar que tienes un commit por cambio logico?
+
+cuales son algunas situaciones en las que los branches te ayudarian a mentaner tu historial organizado? como podrian los branches ayudar?
+
+Como te ayudan los diagramas a visualizar la estructura de un branch?
+
+cual es el resultado de hacer un merge de dos branches juntos?
+por que presentamos en un diagrama la manera en que hacemos esto?
+
+cuales son los pros y los contras de merging automatico contra hacer todos los merging de forma manual?
+especificas cual version de los cambios en conflicto quedan, tenes que dedicar el tiempo a revisar los cambios.
